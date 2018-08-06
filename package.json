@@ -2,10 +2,10 @@
   "name": "utlify",
   "version": "1.0.0",
   "description": "Util functions to ease the dev life",
-  "main": "index.js",
+  "main": "util.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "mahesh9415@gmail.com",
   "license": "ISC"
 }

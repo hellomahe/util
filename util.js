@@ -312,7 +312,7 @@ export const formatCalendar = (event) => {
  * @note - eventValue has to be numeric value 
  */
 
-export const analytics = () => {
+export const bindAnalyticsEvents = () => {
   var gaElements = document.querySelectorAll('[data-ga-target="true"]');
   if (gaElements) {
     gaElements.forEach(function (elem) {
